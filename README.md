@@ -1,5 +1,5 @@
 # Bass Entertainment
 WDC Sites Client.
 ## WDC Sites status
-Not paid, not deployed,
-website code finished.
+I'm a nice guy, so
+it was on the house.
